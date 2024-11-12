@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASP2_treci_domaci",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ASP2_treci_domaci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ASP2_treci_domaci-Debug-1ca345d2342cec040e4a.json",
+					"name" : "ASP2_treci_domaci",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vukluzanin/Documents/ETF/3.SEMESTAR/ASP/ASP2/ASP2 treci domaci/cmake-build-debug",
+		"source" : "/Users/vukluzanin/Documents/ETF/3.SEMESTAR/ASP/ASP2/ASP2 treci domaci"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
